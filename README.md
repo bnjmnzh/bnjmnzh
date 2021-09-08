@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## I am a fourth-year student at the University of Toronto
 😄 **Pronouns**: He/Him/His
  🔭 **I’m currently working** as a data scientist at [ThinkData Works](https://www.thinkdataworks.com/). 
@@ -42,7 +43,8 @@ Here are some ideas to get you started:
 ⚡ **Fun Facts About Me**
 - I did competitive swimming for 8 years in primary and secondary school.
 - I enjoy watching superhero TV shows and movies. I particularly enjoyed Arrow.
--  I enjoy playing video games such as Teamfight Tactics, Osu!, VALORANT, and Apex Legends.
+- I enjoy playing video games such as Teamfight Tactics, Osu!, VALORANT, and Apex Legends.
+- I like to wear wacky earrings.
 ---
 
 😄 **Check out** my [personal portfolio](https://bnjmnzh.github.io/personal-website/).
