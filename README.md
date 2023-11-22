@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Always on the grind, never fall behind
 😄 **Pronouns**: He/Him
-
+<br />
 🔭 **I’m currently working** as a software developper at [Ontario Teacher's Pension Plan](https://www.otpp.com/en-ca/). 
 
 **Languages and Tools**
